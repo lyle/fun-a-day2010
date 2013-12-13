@@ -8,6 +8,7 @@ Learn more about Fun-A-Day at http://artclash.com
 
 Get inspired with....
 
+[![Fun-a-day Song](http://img.youtube.com/vi/OfAITTY-CCU/0.jpg)](http://www.youtube.com/watch?v=OfAITTY-CCU)
 
-YT("OfAITTY-CCU", print = TRUE)
+
 
